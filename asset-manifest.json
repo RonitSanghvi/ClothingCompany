@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/ClothingCompany/static/css/main.b0791f54.css",
+    "main.js": "/ClothingCompany/static/js/main.4d78e327.js",
+    "static/media/step_4.jpg": "/ClothingCompany/static/media/step_4.db22b70c4e5e84339c2f.jpg",
+    "static/media/step_1.jpg": "/ClothingCompany/static/media/step_1.19ee86d3dd35542c1e00.jpg",
+    "static/media/Shirt_4.webp": "/ClothingCompany/static/media/Shirt_4.08fd2f714a24965b6564.webp",
+    "static/media/Shirt_1.jpg": "/ClothingCompany/static/media/Shirt_1.8f0306269258f4070653.jpg",
+    "static/media/shirt.webp": "/ClothingCompany/static/media/shirt.7d4b130687757c626f37.webp",
+    "static/media/Shirt_2.jpg": "/ClothingCompany/static/media/Shirt_2.b69b3b4ddfe28c6a3b66.jpg",
+    "static/media/step_3.jpg": "/ClothingCompany/static/media/step_3.2cf920c1b95e31cd0c1a.jpg",
+    "static/media/step_2.jpg": "/ClothingCompany/static/media/step_2.693fc3a57796ce5ffd24.jpg",
+    "index.html": "/ClothingCompany/index.html",
+    "main.b0791f54.css.map": "/ClothingCompany/static/css/main.b0791f54.css.map",
+    "main.4d78e327.js.map": "/ClothingCompany/static/js/main.4d78e327.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b0791f54.css",
+    "static/js/main.4d78e327.js"
+  ]
+}
