@@ -1,0 +1,16 @@
+.slide-card {
+    transition: transform 5s ease;
+}
+
+.progress-indicator {
+    width: 20px;
+    height: 8px;
+    border-radius: 5px;
+    background-color: gray;
+    transition: background-color 1s ease, width 1s ease;
+}
+
+.progress-indicator.active {
+    background-color: orange;
+    width: 50px;
+}
