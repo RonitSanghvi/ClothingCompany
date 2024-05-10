@@ -62,7 +62,7 @@ export default function Manufacturing() {
                         <FaAngleLeft />
                     </button>
 
-                    <div class={`${posts[current].imageUrl} shadow-3xl w-[1000px] mx-2 sm:mx-8 rounded-3xl bg-no-repeat bg-cover bg-center relative`}>
+                    <div class={`${posts[current].imageUrl} flex-1 w-80 sm:w-[1000px] shadow-2xl sm:mx-8 rounded-3xl bg-no-repeat bg-cover bg-center relative`}>
                         <div className="bg-gradient-to-b from-black/20 to-black/90 rounded-3xl px-8 pb-4 h-full w-full flex flex-col justify-end items-left absolute">
                             <h3 class="text-lg sm:text-3xl text-white font-bold mb-2">{posts[current].title}</h3>
                             <p class="text-gray-200 text-sm sm:text-md mb-1">{posts[current].description}</p>

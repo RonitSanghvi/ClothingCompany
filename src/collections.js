@@ -46,16 +46,16 @@ export default function Collections() {
                 Partner with us for high-quality, stylish, and custom shirts manufacturing.
             </text>
         
-            <div class="max-w-sm flex-1 my-4 flex flex-row overflow-x-auto sm:my-8 sm:max-w-7xl">
+            <div class="max-w-80 flex-1 my-4 flex flex-row overflow-x-auto sm:my-8 sm:max-w-7xl">
             <style>
                 {`
-                .max-w-7xl::-webkit-scrollbar {
-                    display: none !important;
+                .max-w-80::-webkit-scrollbar {
+                    display: none;
                 }
                 `}
             </style>
                 {posts.map(post => (
-                    <div key={post.id} class={`${post.imageUrl} min-w-80 flex-1 mx-8 shadow rounded-lg bg-no-repeat bg-cover bg-center`}>
+                    <div key={post.id} class={`${post.imageUrl} min-w-72 flex-1 mr-8 shadow rounded-lg bg-no-repeat bg-cover bg-center`}>
                         
                         <div className="bg-gradient-to-b from-black/20 to-black/90 rounded-lg p-4 h-full w-full flex flex-col justify-end items-left">
                             <h3 class="text-xl text-white font-bold mb-2">{post.title}</h3>
